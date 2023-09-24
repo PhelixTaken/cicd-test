@@ -20,7 +20,7 @@ export default function Home() {
       <button id="name-button" onClick={onButtonClick}>
         Set name
       </button>
-      Hello!!!!123
+      Hello!!
     </div>
   );
 }
